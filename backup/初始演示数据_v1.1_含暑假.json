@@ -1,0 +1,394 @@
+{
+  "app": "life-workbench",
+  "v": 1,
+  "exportedAt": "2026-08-04T04:27:16.233Z",
+  "note": "v1.1 出厂演示数据（含暑假学习模块），可通过「导入恢复」还原",
+  "data": {
+    "v": 1,
+    "meta": {
+      "created": "2026-08-04",
+      "addSince": 0,
+      "lastBackup": null,
+      "demo": true,
+      "tab": "today"
+    },
+    "profile": {
+      "name": "",
+      "height": 168,
+      "startWeight": 62.5,
+      "targetWeight": 56,
+      "tdee": 1750,
+      "budget": 4500
+    },
+    "ledger": [
+      {
+        "id": "mse5pmyxks2o8",
+        "date": "2026-08-04",
+        "type": "out",
+        "amount": 26.5,
+        "cat": "餐饮",
+        "note": "楼下的手冲加可颂",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyx1ue9v",
+        "date": "2026-08-03",
+        "type": "out",
+        "amount": 218,
+        "cat": "生活",
+        "note": "超市周采买",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxcw62f",
+        "date": "2026-08-02",
+        "type": "out",
+        "amount": 89,
+        "cat": "娱乐",
+        "note": "电影票 ×2",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyx4hqrv",
+        "date": "2026-08-01",
+        "type": "out",
+        "amount": 1200,
+        "cat": "居住",
+        "note": "本月水电物业",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyx8kb75",
+        "date": "2026-07-29",
+        "type": "in",
+        "amount": 16800,
+        "cat": "工资",
+        "note": "月薪到账",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxi8nyz",
+        "date": "2026-07-03",
+        "type": "out",
+        "amount": 3260,
+        "cat": "生活",
+        "note": "上月生活开销",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxdrooj",
+        "date": "2026-06-03",
+        "type": "out",
+        "amount": 4120,
+        "cat": "生活",
+        "note": "前月生活开销",
+        "demo": 1
+      }
+    ],
+    "habits": [
+      {
+        "id": "h1",
+        "name": "早睡（23:30 前）",
+        "type": "check",
+        "target": 1,
+        "unit": "",
+        "demo": 1
+      },
+      {
+        "id": "h2",
+        "name": "喝水",
+        "type": "num",
+        "target": 1800,
+        "unit": "ml",
+        "demo": 1
+      },
+      {
+        "id": "h3",
+        "name": "阅读",
+        "type": "count",
+        "target": 2,
+        "unit": "章",
+        "demo": 1
+      }
+    ],
+    "habitLogs": {
+      "h1|2026-08-03": 1,
+      "h1|2026-08-02": 1,
+      "h1|2026-07-31": 1,
+      "h2|2026-08-04": 900,
+      "h2|2026-08-03": 1900,
+      "h2|2026-08-02": 1500,
+      "h2|2026-08-01": 2000,
+      "h3|2026-08-03": 2,
+      "h3|2026-08-01": 1
+    },
+    "body": [
+      {
+        "id": "mse5pmyxm2qfd",
+        "date": "2026-07-21",
+        "weight": 62.5,
+        "fat": 28.4,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxebwft",
+        "date": "2026-07-25",
+        "weight": 62.1,
+        "fat": 28.1,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxt72nt",
+        "date": "2026-07-28",
+        "weight": 61.6,
+        "fat": 27.8,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxdbhig",
+        "date": "2026-07-31",
+        "weight": 61.4,
+        "fat": 27.6,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxagzo1",
+        "date": "2026-08-03",
+        "weight": 61,
+        "fat": 27.2,
+        "demo": 1
+      }
+    ],
+    "fitLogs": [
+      {
+        "id": "mse5pmyx7vj8o",
+        "date": "2026-08-03",
+        "intake": 1580,
+        "burn": 320,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxv6v72",
+        "date": "2026-08-02",
+        "intake": 1820,
+        "burn": 210,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyx4eyc5",
+        "date": "2026-08-01",
+        "intake": 1490,
+        "burn": 400,
+        "demo": 1
+      }
+    ],
+    "plan": {
+      "0": "完全休息",
+      "1": "力量：胸 + 三头 45min",
+      "2": "有氧：快走 5km",
+      "3": "力量：背 + 二头 45min",
+      "4": "休息 / 拉伸 15min",
+      "5": "力量：腿 + 臀 50min",
+      "6": "户外：骑行或爬山"
+    },
+    "planDone": {},
+    "todos": [
+      {
+        "id": "mse5pmyxikynp",
+        "title": "交房租",
+        "date": "2026-08-02",
+        "time": "",
+        "pri": "P0",
+        "cat": "生活",
+        "done": false,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxu9h8s",
+        "title": "给妈妈回电话",
+        "date": "2026-08-04",
+        "time": "20:00",
+        "pri": "P1",
+        "cat": "家人",
+        "done": false,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxo2224",
+        "title": "周报整理",
+        "date": "2026-08-04",
+        "time": "17:30",
+        "pri": "P1",
+        "cat": "工作",
+        "done": false,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxxs1r1",
+        "title": "预约洗牙",
+        "date": "2026-08-07",
+        "time": "",
+        "pri": "P2",
+        "cat": "健康",
+        "done": false,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxhoknb",
+        "title": "晾衣服",
+        "date": "2026-08-03",
+        "time": "",
+        "pri": "P2",
+        "cat": "生活",
+        "done": true,
+        "demo": 1
+      }
+    ],
+    "wish": [
+      {
+        "id": "mse5pmyx38v4y",
+        "name": "电动升降桌",
+        "price": 1299,
+        "pri": "P1",
+        "where": "京东 / 618 观望",
+        "by": "2026-08-24",
+        "bought": false,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxggovs",
+        "name": "除螨仪",
+        "price": 599,
+        "pri": "P2",
+        "where": "看测评再定",
+        "by": "",
+        "bought": false,
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxtx1b9",
+        "name": "跑鞋",
+        "price": 480,
+        "pri": "P0",
+        "where": "实体店试穿",
+        "by": "2026-08-06",
+        "bought": false,
+        "demo": 1
+      }
+    ],
+    "media": [
+      {
+        "id": "mse5pmyxhnupm",
+        "type": "book",
+        "title": "把自己作为方法",
+        "status": "doing",
+        "stars": 4,
+        "note": "通勤路上读，慢但有回甘。",
+        "cover": "",
+        "date": "2026-08-04",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyx10268",
+        "type": "movie",
+        "title": "瞬息全宇宙",
+        "status": "done",
+        "stars": 5,
+        "note": "混乱又温柔，后半段哭了。",
+        "cover": "",
+        "date": "2026-08-01",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyx1dgkd",
+        "type": "music",
+        "title": "午后爵士歌单",
+        "status": "done",
+        "stars": 4,
+        "note": "写东西时的固定背景音。",
+        "cover": "",
+        "date": "2026-07-15",
+        "demo": 1
+      },
+      {
+        "id": "mse5pmyxhsdjy",
+        "type": "book",
+        "title": "禅与摩托车维修艺术",
+        "status": "want",
+        "stars": 0,
+        "note": "",
+        "cover": "",
+        "date": "2026-08-04",
+        "demo": 1
+      }
+    ],
+    "study": {
+      "start": "2026-07-01",
+      "end": "2026-08-31",
+      "check": {
+        "2026-08-04": {
+          "yw": 1,
+          "sx": 1
+        },
+        "2026-08-03": {
+          "yw": 1,
+          "sx": 1,
+          "wl": 1,
+          "hx": 1,
+          "sw": 1
+        },
+        "2026-08-02": {
+          "sx": 1,
+          "wl": 1
+        }
+      },
+      "tasks": [
+        {
+          "id": "mse5pmyxhujsn",
+          "subject": "sx",
+          "title": "完成二次函数专题卷",
+          "date": "2026-08-04",
+          "pri": "P1",
+          "done": false,
+          "demo": 1
+        },
+        {
+          "id": "mse5pmyxer2cc",
+          "subject": "yw",
+          "title": "背诵《赤壁赋》并默写一篇",
+          "date": "2026-08-04",
+          "pri": "P2",
+          "done": false,
+          "demo": 1
+        },
+        {
+          "id": "mse5pmyx02dch",
+          "subject": "wl",
+          "title": "整理力学错题 5 道",
+          "date": "2026-08-05",
+          "pri": "P2",
+          "done": false,
+          "demo": 1
+        },
+        {
+          "id": "mse5pmyx9fo7q",
+          "subject": "hx",
+          "title": "默写化学方程式 20 条",
+          "date": "2026-08-03",
+          "pri": "P2",
+          "done": true,
+          "demo": 1
+        },
+        {
+          "id": "mse5pmyx6s1q0",
+          "subject": "sw",
+          "title": "复习细胞结构图",
+          "date": "2026-08-03",
+          "pri": "P1",
+          "done": false,
+          "demo": 1
+        }
+      ]
+    }
+  }
+}
